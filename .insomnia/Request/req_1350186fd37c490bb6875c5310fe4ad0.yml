@@ -1,0 +1,30 @@
+_id: req_1350186fd37c490bb6875c5310fe4ad0
+type: Request
+parentId: fld_2779a31467eb40db903a00b5f0f0de13
+modified: 1626979375060
+created: 1624402631560
+url: http://localhost:3333/cursos
+name: Cursos
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"type": "Cursos de Química",
+    	"name": "Química Geral"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_ff7be7b928e74425bd7036a5d0ec3a9d
+authentication: {}
+metaSortKey: -1624402645868
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

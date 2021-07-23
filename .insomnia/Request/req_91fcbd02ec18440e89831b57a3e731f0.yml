@@ -1,0 +1,29 @@
+_id: req_91fcbd02ec18440e89831b57a3e731f0
+type: Request
+parentId: fld_6f4ccd9c116449c89d17b9372a3052e8
+modified: 1627006714892
+created: 1627006390802
+url: http://localhost:3333/cafeteria/498c7098-60fe-49bb-a5af-de219b8eb152
+name: Cafeteria
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "Suco de Laranja"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_4bd2f12e99ac4034974dfc96b81a5c71
+authentication: {}
+metaSortKey: -1627006371838
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

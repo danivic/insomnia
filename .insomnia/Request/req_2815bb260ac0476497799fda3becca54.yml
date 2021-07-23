@@ -1,0 +1,30 @@
+_id: req_2815bb260ac0476497799fda3becca54
+type: Request
+parentId: fld_2779a31467eb40db903a00b5f0f0de13
+modified: 1626979379671
+created: 1624402645768
+url: http://localhost:3333/cursos/0c66d616-1a15-4bfd-8eb8-935d5c18c2bf
+name: Cursos
+description: ""
+method: DELETE
+body:
+  mimeType: application/json
+  text: ""
+parameters:
+  - name: ""
+    value: ""
+    description: ""
+    id: pair_8366c5373b8d45458f90312e52045445
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_44fcf86f07994f9785c1909c3f7a6e41
+authentication: {}
+metaSortKey: -1624402645768
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

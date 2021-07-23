@@ -1,0 +1,29 @@
+_id: req_fe0d986a6fd244f580abd43e2f452365
+type: Request
+parentId: fld_d5f52372ad594d9ba67427bcc369d4e5
+modified: 1626981721658
+created: 1626981474635
+url: http://localhost:3333/professores
+name: Professores
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "Marizete"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_25832cfaa2014d3cb4c630c4dd0ad9d8
+authentication: {}
+metaSortKey: -1626981474635
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

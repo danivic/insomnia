@@ -1,0 +1,30 @@
+_id: req_1ba9c89af02a447d9ae14e0da39a6db3
+type: Request
+parentId: fld_2779a31467eb40db903a00b5f0f0de13
+modified: 1626979403403
+created: 1623979765017
+url: http://localhost:3333/cursos
+name: Cursos
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters:
+  - name: ""
+    value: ""
+    description: ""
+    id: pair_f90521883f1541d497d4f86d3333163a
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_e8f8a797300c4332947abab44daec8f2
+authentication: {}
+metaSortKey: -1624402645918
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

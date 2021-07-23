@@ -1,0 +1,29 @@
+_id: req_1ee2c52e57d34852a2d50f0ff304a565
+type: Request
+parentId: fld_5f4c6c16c81044ffa1f711af4ed56b1d
+modified: 1626983837652
+created: 1626983744626
+url: http://localhost:3333/turmas
+name: Turmas
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "Turma C"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_f04ed98ae33249e9954919e6ad317e61
+authentication: {}
+metaSortKey: -1626983744626
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

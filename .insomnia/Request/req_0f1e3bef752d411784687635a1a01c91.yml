@@ -1,0 +1,29 @@
+_id: req_0f1e3bef752d411784687635a1a01c91
+type: Request
+parentId: fld_6f4ccd9c116449c89d17b9372a3052e8
+modified: 1627006665571
+created: 1627006407577
+url: http://localhost:3333/cafeteria
+name: Cafeteria
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "Café com Leite"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_75ef0bebcdf94a75be522cf474ffe0af
+authentication: {}
+metaSortKey: -1627006407577
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

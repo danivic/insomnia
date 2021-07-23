@@ -1,0 +1,30 @@
+_id: req_a0a711e99cf44f97a721c498387a98aa
+type: Request
+parentId: fld_2779a31467eb40db903a00b5f0f0de13
+modified: 1626979377021
+created: 1624402638392
+url: http://localhost:3333/cursos/fa81c09b-bf46-44a4-b4a5-7c3ba1c5b08f
+name: Cursos
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+        "type": "Cursos de Química",
+        "name": "Fisico-Química"
+      }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_681b87b0198f4437bd0598d32eabf8f8
+authentication: {}
+metaSortKey: -1624402645843
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

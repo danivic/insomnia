@@ -1,0 +1,29 @@
+_id: req_70437336a1684459989428222316b7a2
+type: Request
+parentId: fld_7d99ac4704414e0dbe1bfab34070d9cf
+modified: 1626980023389
+created: 1626979206227
+url: http://localhost:3333/alunos
+name: Alunos
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "Michael"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_5407050162d54cf995b96548cc9308b6
+authentication: {}
+metaSortKey: -1626979183372
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
